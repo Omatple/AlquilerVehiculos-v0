@@ -1,0 +1,24 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(ÍÔé¸üÿÿÿÿ8Ÿ çÛ1
+L	java:S106""+Replace this use of System.out by a logger.(•´°¡ıÿÿÿÿ8Ÿ çÛ1
+F	java:S106$"+Replace this use of System.out by a logger.(ß«›8Ÿ çÛ1
+m
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(ß«›8Ÿ çÛ1
+L	java:S106*"+Replace this use of System.out by a logger.(’ñØÿÿÿÿÿ8Ÿ çÛ1
+L	java:S106/"+Replace this use of System.out by a logger.(’ñØÿÿÿÿÿ8Ÿ çÛ1
+L	java:S1064"+Replace this use of System.out by a logger.(’ñØÿÿÿÿÿ8Ÿ çÛ1
+J
+java:S6395"-Unwrap this unnecessarily grouped subpattern.(ÅÌÿ¤8“Ÿ çÛ1
+J
+java:S6395"-Unwrap this unnecessarily grouped subpattern.(ÅÌÿ¤8“Ÿ çÛ1
+J
+java:S6395"-Unwrap this unnecessarily grouped subpattern.(ÅÌÿ¤8“Ÿ çÛ1
+J
+java:S6395"-Unwrap this unnecessarily grouped subpattern.(ÅÌÿ¤8“Ÿ çÛ1
+G	java:S1069"+Replace this use of System.out by a logger.(ïè’Œ8“Ÿ çÛ1
+L	java:S106:"+Replace this use of System.out by a logger.(’ñØÿÿÿÿÿ8“Ÿ çÛ1
+L	java:S106J"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8•Ÿ çÛ1
+q
+java:S5843"TSimplify this regular expression to reduce its complexity from 81 to the 20 allowed.(ÅÌÿ¤8—Ÿ çÛ1
+S
+java:S1068"1Remove this unused "FORMATO_FECHA" private field.(•µØïıÿÿÿÿ8‡ä¹çÛ1

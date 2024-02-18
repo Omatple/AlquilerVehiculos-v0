@@ -1,0 +1,45 @@
+
+¹
+java:S1192"šDefine a constant instead of duplicating this literal "No se ha encontrado ningÃºn cliente con esa informaciÃ³n. Por favor, intÃ©ntalo de nuevo." 3 times.(ıïÍµ8³†éÛ1
+l
+java:S1192Â"IDefine a constant instead of duplicating this literal "%s. %s%n" 5 times.(ÊÚ›æûÿÿÿÿ8³†éÛ1
+¿
+java:S1192®"›Define a constant instead of duplicating this literal "No se ha encontrado ningÃºn alquiler con esa informaciÃ³n. Por favor, intÃ©ntalo de nuevo." 3 times.(õêñüÿÿÿÿ8³†éÛ1
+G	java:S106""+Replace this use of System.out by a logger.(ôáÁ¡8š¡†éÛ1
+u	java:S131&"YComplete cases by adding the missing enum constants or add a default case to this switch.(°€àâ8š¡†éÛ1
+L	java:S106I"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8œ¡†éÛ1
+G	java:S106L"+Replace this use of System.out by a logger.(¢¥éñ8œ¡†éÛ1
+L	java:S106^"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¡†éÛ1
+L	java:S106a"+Replace this use of System.out by a logger.(¨ÁÜòıÿÿÿÿ8¡†éÛ1
+L	java:S106|"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¡†éÛ1
+G	java:S106"+Replace this use of System.out by a logger.(Àº’8¡†éÛ1
+M	java:S106‹"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¡†éÛ1
+H	java:S106"+Replace this use of System.out by a logger.(¢¥éñ8Ÿ¡†éÛ1
+M	java:S106›"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Ÿ¡†éÛ1
+M	java:S106Ÿ"+Replace this use of System.out by a logger.(¨ÁÜòıÿÿÿÿ8Ÿ¡†éÛ1
+M	java:S106«"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8Ÿ¡†éÛ1
+H	java:S106¯"+Replace this use of System.out by a logger.(Àº’8Ÿ¡†éÛ1
+p
+java:S1871Á"MThis branch's code block is the same as the block for the branch on line 191.(ØôÏıÿÿÿÿ8¡¡†éÛ1
+M	java:S106É"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¢¡†éÛ1
+H	java:S106Ì"+Replace this use of System.out by a logger.(¢¥éñ8¢¡†éÛ1
+p
+java:S3776Ï"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(ï„ù8¢¡†éÛ1
+M	java:S106ç"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8£¡†éÛ1
+M	java:S106ñ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8£¡†éÛ1
+H	java:S106ö"+Replace this use of System.out by a logger.(Àº’8£¡†éÛ1
+M	java:S106ˆ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¤¡†éÛ1
+H	java:S106‹"+Replace this use of System.out by a logger.(¢¥éñ8¤¡†éÛ1
+M	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¤¡†éÛ1
+M	java:S106 "+Replace this use of System.out by a logger.(¨ÁÜòıÿÿÿÿ8¤¡†éÛ1
+M	java:S106²"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¥¡†éÛ1
+H	java:S106µ"+Replace this use of System.out by a logger.(Àº’8¥¡†éÛ1
+H	java:S106Æ"+Replace this use of System.out by a logger.(¢¥éñ8¦¡†éÛ1
+M	java:S106×"+Replace this use of System.out by a logger.(¨ÁÜòıÿÿÿÿ8§¡†éÛ1
+H	java:S106è"+Replace this use of System.out by a logger.(¯œö8§¡†éÛ1
+M	java:S106í"+Replace this use of System.out by a logger.(ÂåÄ…ûÿÿÿÿ8¨¡†éÛ1
+M	java:S106õ"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¨¡†éÛ1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(Íë¬Ú8©¡†éÛ1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(ØÖ°„8©¡†éÛ1
+M	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ª¡†éÛ1
+M	java:S106"+Replace this use of System.out by a logger.(¸Ş›ûÿÿÿÿ8ª¡†éÛ1
